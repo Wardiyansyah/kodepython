@@ -1,0 +1,4 @@
+HTTP=HyperText Transfer Protocol
+HTML=HyperText Markup Language
+XML=eXtensible Markup Language
+JSON=JavaScript Object Notation
